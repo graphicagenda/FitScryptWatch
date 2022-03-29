@@ -65,7 +65,7 @@ $ ./init_script.sh
 ## Troubleshooting
 One other step is to make sure the notificator is executable, while the terminal is in the project root, run the following:
 ```bash
-$ chmod +x ./resource/fit/original-notificator.app
+$ chmod +x ./resource/fit/FitScrypt\ Alerts.app
 ```
 
 ## Credits
